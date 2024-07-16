@@ -2,7 +2,7 @@ body {
     display: block;
     color-scheme: dark;
     background: radial-gradient(circle at top center, rgba(125, 188, 255, 0.5) 0, transparent 50%, transparent 100%);
-    background-color: var(--white-color);
+    background-color: var(--white-color--);
     background-attachment: fixed;
 }
 
